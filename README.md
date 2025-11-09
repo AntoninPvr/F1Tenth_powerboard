@@ -2,7 +2,7 @@
 
 This repository contains the power board design for a F1Tenth car.
 
-Designed on Kicad 8.0.3.
+Designed on Kicad 9.0.6.
 
 ## History
 This project was originally launched in the summer of 2024 at [CTU](https://www.cvut.cz/en), thanks to David Zahrádka, to facilitate easier experimentation for researchers.
