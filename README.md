@@ -7,6 +7,13 @@ Designed on Kicad 9.0.6.
 ## History
 This project was originally launched in the summer of 2024 at [CTU](https://www.cvut.cz/en), thanks to David Zahrádka, to facilitate easier experimentation for researchers.
 
+## Assembled PCB
+
+<p float="center">
+    <img src="img/pcb_front.jpg" width="51%" />
+    <img src= "img/pcb_back.jpg" width="48%" />
+</p>
+
 ## Features
 
 This board is designed to power all F1tenth components. Two 3S Li-Po batteries power the board. Those batteries are connected in parallel throught an ORing circuitry. This allow to hot swap batteries. The output of the ORing is named `BATT_SYS` and is directly connected to VESC output **without protections**.
@@ -81,6 +88,13 @@ Terminal are bornier-2_P5.08mm. They are used to connect the peripherals and the
 <p float="center">
     <img src="img/periph.png" width="46%" />
     <img src= "img/jetson.png" width="53%" />
+</p>
+
+## PCB
+
+<p float="left">
+    <img src="img/pcb_render_front.png?raw=true"  width="47%"/>
+    <img src="img/pcb_render_back.png" width="49%" />
 </p>
 
 ## BOM
