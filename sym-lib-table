@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS51386")(type "KiCad")(uri "${KIPRJMOD}/symbol/TPS51386.kicad_sym")(options "")(descr ""))
+  (lib (name "IAUCN04S7L005")(type "KiCad")(uri "${KIPRJMOD}/symbol/IAUCN04S7L005.kicad_sym")(options "")(descr ""))
+  (lib (name "LM74700QDDF")(type "KiCad")(uri "${KIPRJMOD}/symbol/LM74700QDDF.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS259803ONRGER")(type "KiCad")(uri "${KIPRJMOD}/symbol/TPS259803ONRGER.kicad_sym")(options "")(descr ""))
+  (lib (name "Zener_power_board")(type "KiCad")(uri "${KIPRJMOD}/symbol/Zener_power_board.kicad_sym")(options "")(descr ""))
+  (lib (name "zener_pb")(type "KiCad")(uri "${KIPRJMOD}/symbol/zener_pb.kicad_sym")(options "")(descr ""))
+)
