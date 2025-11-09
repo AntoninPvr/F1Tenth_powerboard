@@ -1,8 +1,11 @@
 # F1Tenth power board
 
-This repository contains the power board design for the F1Tenth car.
+This repository contains the power board design for a F1Tenth car.
 
 Designed on Kicad 8.0.3.
+
+## History
+This project was originally launched in the summer of 2024 at [CTU](https://www.cvut.cz/en), thanks to David Zahrádka, to facilitate easier experimentation for researchers.
 
 ## Features
 
@@ -108,7 +111,7 @@ U4, U5 | TPS259803ONRGER | 2 | TPS259803ONRGER
 
 Warning: *LM74700 exist in different packages. The one used in this design is the 8 pin LM74700D.
 
-## Prices
+## Prices *(Updated on August 18, 2024)*
 
 Example prices on Mouser and JLCPCB.
 
